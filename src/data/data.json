@@ -1,0 +1,50 @@
+[
+  {
+    "id":1,
+   "image":"http://rayoflightthemes.com/wordpress-themes/burgos-wordpress-theme/wp-content/uploads/2020/11/cd98034feccfc7eecfceb8d97481feb9331ce28c-e1607792486387-1000x1000.png",
+   "name":"The Firehouse",
+   "oldPrice":"$44.00",
+   "price":36,
+   "sale": true
+  },
+  {
+    "id":2,
+    "image":"http://rayoflightthemes.com/wordpress-themes/burgos-wordpress-theme/wp-content/uploads/2020/11/72e7e6ed70657203f08f7ae46919fdb5190aaac7-e1607792613205-500x500.png",
+    "name":"Grilled burger",
+    "oldPrice":"",
+    "price":16,
+    "sale": false
+   },
+   {
+    "id":3,
+    "image":"http://rayoflightthemes.com/wordpress-themes/burgos-wordpress-theme/wp-content/uploads/2020/11/d4801223b46e8583531303b87a68be0d337f5682-e1607792722225-500x500.png",
+    "name":"Giant burger",
+    "oldPrice":"",
+    "price":14,
+    "sale": false
+   },
+   {
+    "id":4,
+    "image":"http://rayoflightthemes.com/wordpress-themes/burgos-wordpress-theme/wp-content/uploads/2020/11/99ccbc39ed6c99c92791a00794f34faae3b4da90-e1607792780435-500x500.png",
+    "name":"Burger Bomb",
+    "oldPrice":"",
+    "price":9,
+    "sale": false
+   },
+   {
+    "id":5,
+    "image":"http://rayoflightthemes.com/wordpress-themes/burgos-wordpress-theme/wp-content/uploads/2020/11/58134055f5d7af874c9b4eb8493fd0615f63475e-e1607792831784-500x500.png",
+    "name":"Fried Nuggets",
+    "oldPrice":"",
+    "price":23,
+    "sale": false
+   },
+   {
+    "id":6,
+    "image":"http://rayoflightthemes.com/wordpress-themes/burgos-wordpress-theme/wp-content/uploads/2020/11/7b737c49daa78e897242471510842173d07fcbc5-e1607792873764-500x500.png",
+    "name":"The Firehouse",
+    "oldPrice":"",
+    "price":13,
+    "sale": false
+   }
+]
